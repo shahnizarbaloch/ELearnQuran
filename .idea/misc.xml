@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/ELearnQuranNew/app/src/main/res/drawable/ic_arrow_right_color_primary.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ELearnQuranNew/app/src/main/res/drawable/shape_button_gradient.xml" value="0.138" />
+        <entry key="..\:/AndroidStudioProjects/ELearnQuranNew/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ELearnQuranNew/app/src/main/res/layout/design_aayat_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ELearnQuranNew/app/src/main/res/layout/design_border_selection.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ELearnQuranNew/app/src/main/res/layout/design_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ELearnQuranNew/app/src/main/res/layout/design_more.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ELearnQuranNew/app/src/main/res/layout/dialog_confirmation.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ELearnQuranNew/app/src/main/res/layout/dialog_push_notification.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ELearnQuranNew/app/src/main/res/layout/fragment_border_selection.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ELearnQuranNew/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ELearnQuranNew/app/src/main/res/layout/fragment_more.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ELearnQuranNew/app/src/main/res/layout/fragment_privacy_policy.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ELearnQuranNew/app/src/main/res/layout/fragment_surah.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ELearnQuranNew/app/src/main/res/layout/toolbar_custom.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
